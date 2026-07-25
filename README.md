@@ -50,6 +50,7 @@ Parameters:
 - limit: Int
 - allowDuplicates: Boolean
 - mergeSeasons: Boolean
+- currentSeason: Boolean
 
 Example request:
 ```bash
